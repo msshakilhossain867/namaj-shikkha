@@ -26,11 +26,11 @@ public class AdHelper {
     // TEST AD UNIT IDs
     // ============================================================
 
-    //private static final String INTERSTITIAL_AD_UNIT_ID = "ca-app-pub-3940256099942544/1033173712";
-    private static final String INTERSTITIAL_AD_UNIT_ID = "ca-app-pub-5488667449529842/9310577446";
+    private static final String INTERSTITIAL_AD_UNIT_ID = "ca-app-pub-3940256099942544/1033173712";
+   // private static final String INTERSTITIAL_AD_UNIT_ID = "ca-app-pub-5488667449529842/9310577446";
 
-    //private static final String BANNER_AD_UNIT_ID = "ca-app-pub-3940256099942544/6300978111";
-    private static final String BANNER_AD_UNIT_ID = "ca-app-pub-5488667449529842/3725565500";
+    private static final String BANNER_AD_UNIT_ID = "ca-app-pub-3940256099942544/6300978111";
+    //private static final String BANNER_AD_UNIT_ID = "ca-app-pub-5488667449529842/3725565500";
 
 
     // ============================================================

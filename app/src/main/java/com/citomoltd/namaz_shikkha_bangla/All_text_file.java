@@ -42,6 +42,10 @@ public class All_text_file extends AppCompatActivity {
     SharedPreferences sharedPreferences;
 
 
+    //hello world
+    //hello worldg
+
+
 
 
     @SuppressLint({"MissingInflatedId", "ClickableViewAccessibility"})
